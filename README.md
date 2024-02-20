@@ -1,1 +1,1 @@
-# C_prj
+# Ce mini-projet en langage C consiste à développer une application pour gérer les inscriptions (à l'école ou dans l'internat) et les sélections au sein d'une école. L'application offre également d'autres fonctionnalités telles que la réinscription, le choix de filière, etc.
