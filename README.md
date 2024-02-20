@@ -6,4 +6,5 @@ Pour que l'application fonctionne, il faut disposer de deux fichiers : "etud.txt
 il est important de noter que les données présentes dans les deux fichiers ("etud.txt" et "internat.txt") sont fictives.
 
 Le fichier "internat.txt" : contient seulement le code des etudiants admis a l'internat.
+
 Le fichier "etud.txt" : contient les codes des étudiants admis ainsi que leurs noms, prénoms et âges.
