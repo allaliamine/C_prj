@@ -5,7 +5,6 @@
 #include <time.h>
 #include <conio.h>
 #include "structure.h"
-//#include <ncurses.h>
 
 void faire_demande(Etudiant e){
     //fonction pour faire les demandes
